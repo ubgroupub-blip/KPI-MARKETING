@@ -1,0 +1,8 @@
+{
+  "name": "Маркетинг Багийн KPI Систем",
+  "description": "Маркетингийн багийн гишүүдийн үндсэн (70%) болон төлөвлөгөөнөөс гадуурх (30%) ажлын гүйцэтгэл, тоон KPI үзүүлэлтийг бодит цагт автоматжуулан хянах систем.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
